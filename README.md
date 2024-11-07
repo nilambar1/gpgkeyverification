@@ -1,3 +1,5 @@
 # gpgkeyverification
 
-this is my changes
+# this is my changes
+
+# new command added
